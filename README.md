@@ -49,7 +49,7 @@
 
 ## Skills 🛠️
 
-- **Languages and Frameworks**: Pytorch, Python, C++, Java
+- **Languages and Frameworks**: Pytorch, Python, C++, Java, C
 - **Other Skills**: Neo4j, Natural Language Processing, Slurm
 - **Languages**: Fluent in Malagasy, served a two-year mission in Madagascar
 - **Achievements**: Eagle Scout
