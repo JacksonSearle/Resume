@@ -20,17 +20,18 @@
 
 ## Projects 💻
 
+- **Self-made Tutorials for fine-tuning Language Models**
+  - 🌐 [GitHub Repo](https://github.com/JacksonSearle/model_training)
+  - 🌐 [GitHub Repo](https://github.com/JacksonSearle/Automatic-GPT-2-Fine-tuning-and-Generation)
+ 
 - **Factually grounded Language Model Simulation**
   - 🌐 [GitHub Repo](https://github.com/JacksonSearle/DRAGNTown-Server)
   
 - **Adversarial Autoencoder with Latent Space Visualization**
   - 🌐 [GitHub Repo](https://github.com/JacksonSearle/Adversarial-Auto-Encoder-with-MNIST)
   
-- **Fine-tuned Language Model that speaks like Aristotle**
-  - 🌐 [Hugging Face Model](https://huggingface.co/Dizzykong/Aristotle-8-29?text=The+aim+of+art+is+to+represent+not+the+outward+appearance+of+things%2C+but)
-  
-- **Easy Tutorial for fine-tuning Language Models**
-  - 🌐 [GitHub Repo](https://github.com/JacksonSearle/Automatic-GPT-2-Fine-tuning-and-Generation)
+- **Cancer Detector**
+  - 🌐 [Hugging Face Model](https://github.com/JacksonSearle/Cancer_Detector)
 
 ---
 
@@ -49,9 +50,8 @@
 
 ## Skills 🛠️
 
-- **Languages and Frameworks**: Pytorch, Python, C++, Java, C
-- **Other Skills**: Neo4j, Natural Language Processing, Slurm
-- **Languages**: Fluent in Malagasy, served a two-year mission in Madagascar
+- **Skills**: Pytorch, Python, C++, C,  Java, Neo4j, Natural Language Processing, Slurm, Image Processing, Supercomputers, Transformers, Huggingface, Large Language Models, Machine Learning 
+- **Languages**: Fluent in Malagasy
 - **Achievements**: Eagle Scout
 
 ---
